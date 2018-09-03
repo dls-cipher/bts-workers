@@ -33,20 +33,20 @@ requirement for the owner of the domain, Milos Preocanin (DL) called his non-pro
 
 - New CloudFlare Premium DNS Service
 - New website with clean and corporate look available at http://demo.bitshares.org
-- Responsive/Mobile ready
+- Responsive/Mobile ready (few css improvements/cleanups to be done)
 - 14 New pages with Content aligned by current/ongoing Core team publications/updates and new Whitepaper by BitShares Blockchain Foundation
-- BTS Price ticker from CMC
+- BTS Price ticker from CoinMarketCap
 - Blocktivity.info table fully integrated through api (using php 'include' to avoid err printing on site) - Courtesy/Collaboration of Estefan
-- Legal check on status of having DEX/Blockchain in Slovenia
+- Acquired list of legal requirements for having DEX being hosted/operated in Slovenia (see ref. document #worker-website-dex-legal)
 - Legal check of content for bitshares.org
-- Content SEO optimizations (targeted keywords, titles, metas)
+- Content SEO optimizations (targeted keywords, titles, metas, descriptions, headings, sitemap, etc.)
 - Hosting SEO preparations/optimization - bitshares.org ONLY
 - New BitShares GitHub repository for bitshares.org (where the future development will be available and current staging and production website)
 - Email server with SPF record and SSL (Shared) protection - currently hosted with apasia.tech
 - Separation of header and footer with php in order to get content updates less complicated
-- Load Balancer main node (shared root between collaborators) with 3 nodes behind (Entire setup by APT - Asia, EU, USA) - "Zavod Premik" would be holding root to the USA, Bitshares Blockchain Foundation would be offered with EU, and Abit/Sigve would be offered to hold keys to Asia (Truly decentralized).
-- DNS login restrictions between Fabian Schuh, Sigve Kvalsvik and Milos Preocanin. 
-- New 'Website Terms of Agreement' and 'Content Restrictions'
+- Load Balancer main node (shared root between collaborators) with 3 nodes behind (Entire setup by APT - Asia, EU, USA) - "Zavod Premik" would be holding root to the USA, Bitshares Blockchain Foundation would be offered with EU, and Abit/Ryan C. Fox would be offered to hold keys to Asia (Truly decentralized).
+- DNS login restrictions are split to email and 2FA access, w
+- New 'Website Terms of Agreement' and 'Content Restrictions' (Telegram groups removal from Contacts due to branding/reputation issues and number of the groups until proper worker for support is built, removal of the terms DEX from keyword and indexing, 
 
 # **Worker Intent**
 
@@ -72,21 +72,21 @@ Worker is divided between on-going/monthly 'fees' and fixed 'costs', it has pre-
 | Milos Preocanin - Project Manager |   $100.00     |
 | Richard Castro - Web Developer	         |   $120.00     |
 | Alex Megalokonomos - CSS/JS Review/Opt      |    $120.00     |
-| Fabian Schuh - Content/Legal/QoS Review      |	 $100.00     |
-| Sigve Kvalsvik - DNS/Auth Management	 |    $50.00     |
-| Ross Walker - Content Writing 	         |    $75.00     |
-| Ryan C. Fox - Core Updates/Content Liason     |	  $75.00     |
-| (empty spot) - Web Designer                   |   $50.00     |
+| Ross Walker - Content Manager 	         |    $75.00     |
+| Ryan C. Fox - Core/Content Liason     |	  $75.00     |
+| Sigve Kvalsvik - DNS/Auth Manager      |    $50.00    |
+| **GitHub Issue Bounties**               |   $30.00 - $125.00     |
 
-- *Maximum budget per month is $6800.00*
+- *Maximum budget per month is $6800.00 - This amount of monthly fees was calculated as worst-case scenario where complete re-design would be involved in that month (as example of scope of work needed for it)*
 - *Escrow fee would be deducted/charged as **fixed** @8% x *(~6800) from monthly invoices issued to the escrow partner*
-- *TopTracker will be used for tracking hours and tasks of each member of the team.* 
+- *TopTracker will be used for tracking hours and tasks of each member of the team.*
+- *For the GitHub Bounties, participants will be requested to do initial ETA on task/issue or to register/use TopTracker account within team.*
 
 ### **One time payments - 'costs'**
 
 | Description        | Price (bitUSD) |
 | ---------------------------------- | -------------:|
-| 1 Time Reimbursement Fee |   $5,000.00     |
+| 1-Time Reimbursement Fee |   $5,000.00     |
 | 4 Positive(Comodo) Premium SSL Certificate / 12 months    |   $60.00     |
 | CDN by StackPath / rough estimate for 12 months    |	 $320.00     |
 | Website Balanced Hosting (1+3) with DDOS / 12 months    |    $1440.00     |
@@ -96,8 +96,8 @@ Worker is divided between on-going/monthly 'fees' and fixed 'costs', it has pre-
 ### **1/4 3 Months General Roadmap**
 
 - Finishing 2/3 native dApps pages
-- Moving/Setting up emails to new server
-- Truly decentralized hosting solution for bitshares.org
+- Moving/Setting up emails to the new server
+- Innovative hosting solution for bitshares.org (see ref. document #worker-website-hosting)
 - Purchase/Deploy of SINGLE Premium SSL Certificate for bitshares.org
 - Enabling status.bitshares.org as monitoring service for the nodes listed in wallet.bitshares.org
 - Achieving double "A" Score on GTMetrix (Google PageSpeed and YahooSlow) for bitshares.org
@@ -113,14 +113,14 @@ Worker is divided between on-going/monthly 'fees' and fixed 'costs', it has pre-
 - Anti-Spam/Crawl for both website/emails
 - Proper Google Analytics integration with monthly reporting/suggestions for improvements/potential marketing campaing opportunities
 - Blog/News Updates/CMS - Newest from the eco-system similar to current "State-of-the-network"
-- Proper/Legally OK linking between main website and its native dApps
+- Proper/Legally OK structure to native dApps within the website bitshares.org - linking between main website and its native dApps
 
 *General Roadmap is subject to constant changes and interraction of the team of this worker. 
 
 ## **Legal Disclaimer**
 
-- "Zavod Premik" as legal representative and owner of the domain bitshares.org will continue respectfully to update and manage bitshares.org and its content through Consensus/Ecosystem Workers and stake-holders/proxies decisions and votes.
-- Any suggestion from stake-holders/proxies (regardless of their stake/weight), if doesn't meet legal requirements/limits in Slovenia will be sanctioned/ignored and legal substitute/solution will be resolved through other stake-holders and legal representatives.
+- "Zavod Premik" as legal representative and owner of the domain bitshares.org will continue respectfully to update and manage bitshares.org and it
+- Any suggestion/request from stake-holders/proxies (regardless of their stake/weight), if doesn't meet legal requirements/limits in Slovenia will be sanctioned/ignored and legal substitute/solution will be resolved through other stake-holders and legal representatives.
 - Milos Preocanin, as person having Power of Authority on behalf of "Zavod Premik" will be held as main/responsible contact for this worker.
 - "Zavod Premik" will uphold agreement with the blockchain for 12 months, giving warranty on current structure/intent as CONSISTENT and fully transparent to the stake-holders and BitShares Ecosystem. 
 
@@ -130,10 +130,5 @@ Worker is divided between on-going/monthly 'fees' and fixed 'costs', it has pre-
 
 **NOTICE/ADVERTISEMENT:**
 
-This worker has one empty position for a 
-
-- Web Designer 
-
-to be filled. 
-
-*If you are from within the ecosystem and you are interested, for submissions please contact Worker Manager by Telegram (@murda_ra) or by discussion thread of this worker in BitSharestalk.org 
+- This worker will constantly produce issues at it's corresponding repository on GitHub
+*If you are from within the ecosystem, or completely random person and you are interested, for submissions please contact Worker Manager by Telegram (@murda_ra) or by discussion thread of this worker in BitSharestalk.org or directly by commenting referring issue on the GitHub
