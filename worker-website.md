@@ -27,8 +27,7 @@ end: 2019/10/11
 
 Earlier this year, Cryptonomex and its President and Director, signed agreement with new appointed care-taker AP Asia Tech Co., LTD. Included in that agreement was handling the domain
 and its related services, make-up and polishing of new website and its content done by Richard Castro, and proper SEO services. Once AP Asia Tech Co., LTD was warned for non-profit status
-requirement for the owner of the domain, Milos Preocanin (DL) called his non-profit partner "Zavod Premik" from Slovenia (based on partnership agreement from 2017) and attached "Zavod Premik"
-as current owner of the domain. 
+requirement for the owner of the domain, Milos Preocanin (DL) called his non-profit partner "Zavod Premik" from Slovenia (based on partnership agreement from 2017) and moved ownership to non-profit status. 
 
 # **Review of work done from March 2018 till September 2018**
 
@@ -46,7 +45,7 @@ as current owner of the domain.
 - Email server with SPF record and SSL (Shared) protection - currently hosted with apasia.tech
 - Separation of header and footer with php in order to get content updates less complicated
 - Load Balancer main node (shared root between collaborators) with 3 nodes behind (Entire setup by APT - Asia, EU, USA) - "Zavod Premik" would be holding root to the USA, Bitshares Blockchain Foundation would be offered with EU, and Abit/Sigve would be offered to hold keys to Asia (Truly decentralized).
-- DNS login restrictions between Fabian Schuh, Sigve Kvalsik and Milos Preocanin. 
+- DNS login restrictions between Fabian Schuh, Sigve Kvalsvik and Milos Preocanin. 
 - New 'Website Terms of Agreement' and 'Content Restrictions'
 
 # **Worker Intent**
@@ -56,9 +55,11 @@ Eco-system learned by now, that unmanaged website/domain can be very very damagi
 opinions from other participants in our eco-system and some personal experience, we've selected a team of people that will for the following 12 months dedicate their best hours and skills to constantly keep improving bitshares.org in every possible way. 
 The website and domain/hosting would be having General Roadmap for 12 months, with every 3 month presentations/review.
 
-## **BitShares GitHub Repository**
+## **Online spotlights for the project**
 
 1. https://github.com/BitShares/bitshares.org - New Website Repo
+2. http://demo.bitshares.org - Live Demo
+3. http://demo1.apasia.tech - Staging Demo
 
 ## **Budget**
 
@@ -72,7 +73,7 @@ Worker is divided between on-going/monthly 'fees' and fixed 'costs', it has pre-
 | Richard Castro / Web Developer	         |   $120.00     |
 | Alex Megalokonomos / CSS/JS Review/Opt      |    $120.00     |
 | Fabian Schuh / Content/Legal/QoS Review      |	 $100.00     |
-| Sigve Kvalsik / DNS/Auth Management	 |    $50.00     |
+| Sigve Kvalsvik / DNS/Auth Management	 |    $50.00     |
 | Ross Walker / SEO/Content Optimizations 	         |    $50.00     |
 | (empty position) / Web/Graphic Designer     |	  $75.00     |
 
@@ -126,9 +127,10 @@ Worker is divided between on-going/monthly 'fees' and fixed 'costs', it has pre-
 
 **NOTICE/ADVERTISEMENT:**
 
-Two more positions will be hired* and initially offered to the Developers within BitShares ecosystem:
+This worker has one empty position for a 
 
-2. Web Designer
-3. JS developer
+- Web Designer 
 
-*For submissions please contact Worker Manager by Telegram (@murda_ra) or by discussion thread of this worker in BitSharestalk.org 
+to be filled. 
+
+*If you are from within the ecosystem and you are interested, for submissions please contact Worker Manager by Telegram (@murda_ra) or by discussion thread of this worker in BitSharestalk.org 
