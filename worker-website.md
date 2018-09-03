@@ -77,9 +77,9 @@ Worker is divided between on-going/monthly 'fees' and fixed 'costs', it has pre-
 | Ross Walker - SEO/Content Optimizations 	         |    $70.00     |
 | (empty position) - Web/Graphic Designer     |	  $50.00     |
 
-*Maximum budget per month is $6500.00
-*Escrow fee would be deducted/charged as **fixed** @8%*(~6500) from monthly invoices issued to the escrow partner
-*TopTracker will be used for tracking hours and tasks of each member of the team. 
+*Maximum budget per month is $6500.00*
+*Escrow fee would be deducted/charged as **fixed** @8%*(~6500) from monthly invoices issued to the escrow partner*
+*TopTracker will be used for tracking hours and tasks of each member of the team.* 
 
 ### **One time payments - 'costs'**
 
