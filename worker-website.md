@@ -68,17 +68,16 @@ Worker is divided between on-going/monthly 'fees' and fixed 'costs', it has pre-
 
 | Name / Position              | Hourly Rate (bitUSD) |
 | ---------------------------------- | -------------:|
-| Milos Preocanin / Worker Manager |   $120.00     |
-| Richard Castro / Web Developer	         |   $100.00     |
-| Alex Megalomokus / CSS Review/Optimizations      |    $100.00     |
-| Fabian Schuh / Operations Review      |	 $120.00     |
+| Milos Preocanin / Project Manager |   $100.00     |
+| Richard Castro / Web Developer	         |   $120.00     |
+| Alex Megalokonomos / CSS/JS Review/Opt      |    $120.00     |
+| Fabian Schuh / Content/Legal/QoS Review      |	 $100.00     |
 | Sigve Kvalsik / DNS/Auth Management	 |    $50.00     |
 | Ross Walker / SEO/Content Optimizations 	         |    $50.00     |
-| (empty position) / JS Developer             |	  $90.00     |
-| (empty position) / Web Designer     |	  $75.00     |
+| (empty position) / Web/Graphic Designer     |	  $75.00     |
 
 *Maximum budget per month is $6500.00
-*Escrow fee would be **fixed** @8% from monthly invoices
+*Escrow fee would be deducted/charged as **fixed** @8%*(~6500) from monthly invoices issued to the escrow partner
 *TopTracker will be used for tracking hours and tasks of each member of the team. 
 
 ### **One time payments - 'costs'**
