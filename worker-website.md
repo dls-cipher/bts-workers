@@ -2,7 +2,7 @@
 language: en
 layout: worker
 type: budget
-bfid: 2018-09-bitshares-website-annual-management
+bfid: 2018-09-bitshares-website-development-management
 workerid: not created yet
 title: BitShares.org - Website Development, Content/Domain Management, Hosting 
 name: Milos Preocanin
@@ -13,10 +13,10 @@ status: draft
 discussions:
  - name: bitsharestalk
    url: ""
-price: 85180 USD
+price: 88,780.00 USD
 price_division:
-    fixed: 7180 USD
-    variable: 78000 USD
+    fixed: 7,180.00 USD
+    variable: 81,600.00 USD
 duration: 13 months
 start: 2018/09/10
 end: 2019/10/11
@@ -74,23 +74,24 @@ Worker is divided between on-going/monthly 'fees' and fixed 'costs', it has pre-
 | Alex Megalokonomos - CSS/JS Review/Opt      |    $120.00     |
 | Fabian Schuh - Content/Legal/QoS Review      |	 $100.00     |
 | Sigve Kvalsvik - DNS/Auth Management	 |    $50.00     |
-| Ross Walker - SEO/Content Optimizations 	         |    $70.00     |
-| (empty position) - Web/Graphic Designer     |	  $50.00     |
+| Ross Walker - Content Writing 	         |    $75.00     |
+| Ryan C. Fox - Core Updates/Content Liason     |	  $75.00     |
+| (empty spot) - Web Designer                   |   $50.00     |
 
-*Maximum budget per month is $6500.00*
-*Escrow fee would be deducted/charged as **fixed** @8%*(~6500) from monthly invoices issued to the escrow partner*
-*TopTracker will be used for tracking hours and tasks of each member of the team.* 
+- *Maximum budget per month is $6800.00*
+- *Escrow fee would be deducted/charged as **fixed** @8% x *(~6800) from monthly invoices issued to the escrow partner*
+- *TopTracker will be used for tracking hours and tasks of each member of the team.* 
 
 ### **One time payments - 'costs'**
 
 | Description        | Price (bitUSD) |
 | ---------------------------------- | -------------:|
-| 1 Time Reimbursement Fee |   $5000.00     |
+| 1 Time Reimbursement Fee |   $5,000.00     |
 | 4 Positive(Comodo) Premium SSL Certificate / 12 months    |   $60.00     |
 | CDN by StackPath / rough estimate for 12 months    |	 $320.00     |
 | Website Balanced Hosting (1+3) with DDOS / 12 months    |    $1440.00     |
 | E-mail Server (CentOS 6 x64) /w DirectAdmin |    $360.00     |
-| **TOTAL**     |	  $7180.00     |
+| **TOTAL**     |	  $7,180.00     |
 
 ### **1/4 3 Months General Roadmap**
 
@@ -102,11 +103,13 @@ Worker is divided between on-going/monthly 'fees' and fixed 'costs', it has pre-
 - Achieving double "A" Score on GTMetrix (Google PageSpeed and YahooSlow) for bitshares.org
 - Achieving 88%+ on SEOSITECHECKUP for bitshares.org
 - DNS updates for the premium domain requirements
+- "Wallet Creation" being replaced with term "Account Creation" and incorporated to the website bitshares.org instead of sending users only to DEX
 - PHP polishing (wrapping header/footer includes through all pages)
+- Total of 27 files to be cleaned/organized (css, php, js, html)
 - Improving on blocktivity.info table
 - Integration of Ticketing system (new/separate worker) with various business departments as replacement to emails on contact page
-- CDN integration
-- OPCache + Redis server (we do serve static content)
+- CDN (StackPath - ex MAXCDN) integration
+- OPCache + Redis server deployment/configuration (80% of content we serve is static)
 - Anti-Spam/Crawl for both website/emails
 - Proper Google Analytics integration with monthly reporting/suggestions for improvements/potential marketing campaing opportunities
 - Blog/News Updates/CMS - Newest from the eco-system similar to current "State-of-the-network"
