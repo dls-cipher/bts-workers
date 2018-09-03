@@ -69,13 +69,13 @@ Worker is divided between on-going/monthly 'fees' and fixed 'costs', it has pre-
 
 | Name / Position              | Hourly Rate (bitUSD) |
 | ---------------------------------- | -------------:|
-| Milos Preocanin / Project Manager |   $100.00     |
-| Richard Castro / Web Developer	         |   $120.00     |
-| Alex Megalokonomos / CSS/JS Review/Opt      |    $120.00     |
-| Fabian Schuh / Content/Legal/QoS Review      |	 $100.00     |
-| Sigve Kvalsvik / DNS/Auth Management	 |    $50.00     |
-| Ross Walker / SEO/Content Optimizations 	         |    $50.00     |
-| (empty position) / Web/Graphic Designer     |	  $75.00     |
+| Milos Preocanin - Project Manager |   $100.00     |
+| Richard Castro - Web Developer	         |   $120.00     |
+| Alex Megalokonomos - CSS/JS Review/Opt      |    $120.00     |
+| Fabian Schuh - Content/Legal/QoS Review      |	 $100.00     |
+| Sigve Kvalsvik - DNS/Auth Management	 |    $50.00     |
+| Ross Walker - SEO/Content Optimizations 	         |    $70.00     |
+| (empty position) - Web/Graphic Designer     |	  $50.00     |
 
 *Maximum budget per month is $6500.00
 *Escrow fee would be deducted/charged as **fixed** @8%*(~6500) from monthly invoices issued to the escrow partner
