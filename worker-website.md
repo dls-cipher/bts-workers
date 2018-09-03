@@ -34,6 +34,7 @@ as current owner of the domain.
 
 - New CloudFlare Premium DNS Service
 - New website with clean and corporate look available at http://demo.bitshares.org
+- Responsive/Mobile ready
 - 14 New pages with Content aligned by current/ongoing Core team publications/updates and new Whitepaper by BitShares Blockchain Foundation
 - BTS Price ticker from CMC
 - Blocktivity.info table fully integrated through api (using php 'include' to avoid err printing on site) - Courtesy/Collaboration of Estefan
