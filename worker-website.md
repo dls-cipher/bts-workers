@@ -115,7 +115,7 @@ Worker is divided between on-going/monthly 'fees' and fixed 'costs', it has pre-
 - Blog/News Updates/CMS - Newest from the eco-system similar to current "State-of-the-network"
 - Proper/Legally OK structure to native dApps within the website bitshares.org - linking between main website and its native dApps
 
-*General Roadmap is subject to constant changes and interraction of the team of this worker. 
+*General Roadmap is subject to constant changes and interraction of the team of this worker. Issues will be constantly updated and hours tracked.
 
 ## **Legal Disclaimer**
 
