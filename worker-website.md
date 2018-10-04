@@ -2,7 +2,7 @@
 language: en
 layout: worker
 type: budget
-bfid: 2018-09-bitshares-website-annual-management
+bfid: 2018-10-bitshares-website-annual-management
 workerid: not created yet
 title: BitShares.org - Website Development, Content/Domain Management, Hosting, Support System 
 name: Milos Preocanin
@@ -31,7 +31,7 @@ requirement as owner of the domain, Milos Preocanin (DL) called his non-profit p
 as current owner of the domain (based on partnership agreement from 2017). That disclosed, AP Asia Tech Co., LTD. will remain to be only technical partner of "Zavod Premik" in order to persuade 
 best interests, top visibility and transparent results for domain bitshares.org(and it sub-domains) and content behind BitShares blockchain. 
 
-# **Review of work done from March 2018 till September 2018**
+# **Review of work done from March 2018 till October 2018**
 
 - New CloudFlare Premium DNS Service
 - New website with clean and corporate look available at http://demo.bitshares.org
