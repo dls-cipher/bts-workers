@@ -46,8 +46,8 @@ AP Asia Tech Co., LTD was advised by the community that the domain should be own
 Milos Preocanin (Digital Lucifer) took the initiative and called on his non-profit partner 
 ["Zavod Premik" from Slovenia](move-institute.si) to be the owner of the domain. "Zavod Premik" aka the Move Institute 
 is already active in the BitShares economy, e.g. 
- - add some links here 
- - existing partnership agreement with APAsia from 2017 
+ - [Zavod Premik – ‘Move’ Institute: Expansion to BitShares Foundations](https://bitsharestalk.org/index.php?topic=26639.0)
+ - [Existing partnership agreement with APAsia from 2017](http://apasia.tech/downloads/docs/Agreement-Non-Profit-Inst-Zavod-Premnik-Nov2017.pdf) 
  
 That disclosed, AP Asia Tech Co., LTD. will remain as a technical partner of "Zavod Premik” in order to
 pursue best interests, top visibility and transparent results for the domain BitShares.org (and it sub-domains) 
@@ -74,14 +74,14 @@ the invoiced amount and is included in the budget.
 | CSS/JS Review/Opt (Alex Megalokonomos) -       |    $120.00     |
 | Content Manager (Ross Walker)  	         |    $75.00     |
 | Content Liaison (Ryan C. Fox)      |	  $75.00     |
-| DNS/Auth Manager (Sigve Kvalsvik)       |    $50.00    |
+| DNS/Auth Manager (Sigve Kvalsvik)       |    $80.00    |
 | Issue Bounties via GitHub  |   $30.00 - $125.00     |
 
 TopTracker will be used for tracking hours and tasks of each member of the team. 
 
 Involved personel:
  - Milos Preocanin, @murda_ra aka Digital Lucifer
- - Richard Castro, @???
+ - Richard Castro, @richcg
  - Alex Megalokonomos, @clockworkgr, BitShares Witness and Committee Member
  - Ross Walker, @rosswlkr
  - Ryan C. Fox, @ryanRfox, Head of BitShares Core team
