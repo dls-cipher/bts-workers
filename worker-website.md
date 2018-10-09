@@ -108,7 +108,7 @@ The roadmap will be published in 3 month intervalls. For the first three month i
 - Content creation and optimization (as per spreadsheet with estimate in hours)
 - Achieving double "A" Score on GTMetrix (Google PageSpeed and YahooSlow) for BitShares.org
 - Achieving 88%+ on SEOSITECHECKUP for BitShares.org
-- Development and integration of open-source support ticketing system in order to provide options for professional inquiries and support. Handling those tickets can be realized via Bounties, and ultimately by a fixed position through a new worker
+- Development of an temporary professional general inquiry form (not permanent solution)
 - Final Terms and Conditions to the website according to the Governance of Slovenia
 - Newsletter 
 - Anti-Spam/Crawl for both website / emails
