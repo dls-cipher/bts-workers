@@ -179,8 +179,7 @@ manage BitShares.org and its content through this and future workers, possibly a
 - Milos Preocanin will be held as the main / responsible contact for this worker, also on behalf of "Zavod Premik" 
 - "Zavod Premik" will uphold this agreement with the BitShares Blockchain for 12 months, giving warranty on current 
 structure / intent as CONSISTENT and fully transparent to the stakeholders and BitShares Ecosystem.
-- Any suggestion from stakeholders (regardless of their stake/weight), if it doesn't meet legal requirements/limits in Slovenia will be sanctioned/ignored, and a legal substitute/solution will be resolved through other stake-holders and legal representatives. 
-
+- "Zavod Premik" as the owner of the domain has the ultimate say in the hosted content, in particular while conforming to legal requirements enforced by Slovenien law.
 
 **Notice / Advertisement**
 
