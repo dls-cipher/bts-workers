@@ -17,17 +17,17 @@ price: 175180 USD
 price_division:
     fixed: 7180 USD
     variable: 168000 USD
-duration: 13 months
-start: 2018/10/10
-end: 2019/11/11
+duration: 13 months (1 month buffer)
+start: 2018/10/15
+end: 2019/11/14
 
 ---
 
 # **Introduction**
 
-The initiative is a clear path to an updated, optimized and professionally managed BitShares.Org domain/website that will provide a professional and corporate experience to our visitors, clients and on-boarding businesses. In order to achieve that, the website will follow certain standards and active trends in order to gain top visibility and maintain online presence. First steps will involve pro-bono initial boosts to gain traffic. Zavod Premik and the worker manager are taking all legal responsibility and obligation towards the domain bitshares.org, its sub-domains and content/marketing that are being presented and related to it.
+The initiative is a clear path to an updated, optimized and professionally managed BitShares.org domain/website that will provide a professional and corporate experience to our visitors, clients and on-boarding businesses. In order to achieve that, the website will follow certain standards and active trends in order to gain top visibility and maintain online presence. First steps will involve pro-bono initial boosts to gain traffic. Zavod Premik and the worker manager are taking all legal responsibility and obligation towards the domain BitShares.org, its sub-domains and content/marketing that are being presented and related to it.
 
-The community and eco-system have learned by now, that an unmanaged website/domain can be very damaging - re Brand, Marketing and Reputation (e.g. BitShares is not a DEX, BitShares is a Blockchain/Technology). After detailed analysis, reviews, legal advisory, opinions from other participants in our eco-system and professional experience, we've selected a team of people that will for the following 12 months dedicate their best hours and skills to constantly improve and enhance the bitshares.org website/online business presentation and support in every possible way. 
+The community and eco-system have learned by now, that an unmanaged website/domain can be very damaging - re Brand, Marketing and Reputation (e.g. BitShares is not a DEX, BitShares is a Blockchain/Technology). After detailed analysis, reviews, legal advisory, opinions from other participants in our eco-system and professional experience, we've selected a team of people that will for the following 12 months dedicate their best hours and skills to constantly improve and enhance the BitShares.org website/online business presentation and support in every possible way. 
 
 # **Worker Intent**
 
@@ -37,82 +37,117 @@ As seen from the demo, website is still missing: content for 2 new pages (DEX + 
 
 # **History**
 
-Earlier in 2018, Cryptonomex and its President and Director, signed an agreement whereby AP Asia Tech Co., LTD. would become the newly appointed care-taker of the BitShares.Org domain/web property. Included in the agreement was handling the domain and its related services, building and management of a new website and content (done by Richard Castro), and proper SEO services. After which, AP Asia Tech Co., LTD and community were legally advised that non-profit ownership status is a requirement of such a domain. Milos Preocanin (DL) took the initiative, and called a non-profit partner "Zavod Premik" from Slovenia, (move-institute.si) to attach "Zavod Premik" as current non-profit owner of the domain (based on an existing partnership agreement from 2017). That disclosed, AP Asia Tech Co., LTD. will remain only as a technical partner of "Zavod Premik”, in order to persuade best interests, top visibility and transparent results for the domain bitshares.org (and it sub-domains) and content behind BitShares Blockchain.
+Earlier in 2018, Cryptonomex and its President and Director, signed an agreement whereby AP Asia Tech Co., LTD. 
+would become the newly appointed care-taker of the BitShares.Org domain/web property. Included in the agreement was 
+handling the domain and its related services, building and management of a new website and content (done by Richard Castro), 
+and proper SEO services. 
 
+AP Asia Tech Co., LTD was advised by the community that the domain should be owned by a non-profit entity. 
+Milos Preocanin (Digital Lucifer) took the initiative and called on his non-profit partner 
+["Zavod Premik" from Slovenia](move-institute.si) to be the owner of the domain. "Zavod Premik" aka the Move Institute 
+is already active in the BitShares economy, e.g. 
+ - add some links here 
+ - existing partnership agreement with APAsia from 2017 
+ 
+That disclosed, AP Asia Tech Co., LTD. will remain as a technical partner of "Zavod Premik” in order to
+pursue best interests, top visibility and transparent results for the domain BitShares.org (and it sub-domains) 
+and the underlying content.
 
 ## **BitShares GitHub Repository**
 
-1. https://github.com/BitShares/bitshares.org - New Website Repo
+The content of the new BitShares.org website will be publicly hosted on github with an automatic deployment pipeline to 
+the actual domain.
+ - https://github.com/BitShares/bitshares.org
 
 ## **Budget**
 
-Worker is divided between on-going/monthly 'fees' and fixed 'costs', it has pre-calculated length of 13 months against actual duration of 12 months of work, where 'costs' would be counted as one fixed month of payment. 
+Worker is divided between on-going and monthly fees and fixed costs and can accommodate a total of 12 months of work
+with a maximum budget per month of $14000.00. All work will be paid through invoices, the escrow fee is **fixed** 5% of 
+the invoiced amount and is included in the budget.
+
+**Positions installed** 
 
 | Name / Position              | Hourly Rate (bitUSD) |
 | ---------------------------------- | -------------:|
-| Milos Preocanin - Project Manager |   $100.00     |
-| Richard Castro - Web Developer	         |   $120.00     |
-| Alex Megalokonomos - CSS/JS Review/Opt      |    $120.00     |
-| Ross Walker - Content Manager 	         |    $75.00     |
-| Ryan C. Fox - Core/Content Liaison     |	  $75.00     |
-| Sigve Kvalsvik - DNS/Auth Manager      |    $50.00    |
-| **GitHub Issue Bounties**               |   $30.00 - $125.00     |
+| Project Manager (Milos Preocanin) |   $100.00     |
+| Web Developer (Richard Castro, Milos Preocanin)	         |   $120.00     |
+| CSS/JS Review/Opt (Alex Megalokonomos) -       |    $120.00     |
+| Content Manager (Ross Walker)  	         |    $75.00     |
+| Content Liaison (Ryan C. Fox)      |	  $75.00     |
+| DNS/Auth Manager (Sigve Kvalsvik)       |    $50.00    |
+| Issue Bounties via GitHub  |   $30.00 - $125.00     |
 
-*Maximum budget per month is $14000.00
-*Escrow fee is **fixed** @5% and is included in the budget
-*TopTracker will be used for tracking hours and tasks of each member of the team. 
+TopTracker will be used for tracking hours and tasks of each member of the team. 
 
-### **One time payments - 'costs'**
+Involved personel:
+ - Milos Preocanin, @murda_ra aka Digital Lucifer
+ - Richard Castro, @???
+ - Alex Megalokonomos, @clockworkgr, BitShares Witness and Committee Member
+ - Ross Walker, @rosswlkr
+ - Ryan C. Fox, @ryanRfox, Head of BitShares Core team
+ - Sigve Kvalsvik, @sigvek, Code review of BitShares UI team
+
+**One time payment**
 
 | Description        | Price (bitUSD) |
 | ---------------------------------- | -------------:|
-| 1-Time Reimbursement Fee |   $5000.00     |
-| 4 Positive(Comodo) Premium SSL Certificate / 12 months    |   $60.00     |
-| CDN by StackPath / rough estimate for 12 months    |	 $500.00     |
-| Website Balanced Hosting (1+3) with DDOS / 12 months    |    $1440.00     |
-| E-mail Server (CentOS 6 x64) /w DirectAdmin |    $360.00     |
+| Time Reimbursement Fee |   $5000.00   |
+| 4 Positive(Comodo) Premium SSL Certificate for 12 months  |   $60.00   |
+| CDN by StackPath for 12 months (estimate)  |	 ~ $500.00    |
+| Website Balanced Hosting (1+3) with DDOS for 12 months    |    $1440.00     |
+| E-mail Server (CentOS 6 x64) /w DirectAdmin  for 12 months |    $360.00     |
 | **TOTAL**     |	  $7180.00     |
 
-### **(1/4) 3 Months General Roadmap**
+All unused BTS / bitUSD will be returned after the end of this worker.
 
-- Finishing 2/3 native dApps pages
+## **Roadmap**
+
+The roadmap will be published in 3 month intervalls. For the first three month it is:
+
+**Public representation**
+- Content creation and optimization (as per spreadsheet with estimate in hours)
+- Achieving double "A" Score on GTMetrix (Google PageSpeed and YahooSlow) for BitShares.org
+- Achieving 88%+ on SEOSITECHECKUP for BitShares.org
+- Development and integration of open-source support ticketing system in order to provide options for professional inquiries and support. Handling those tickets can be realized via Bounties, and ultimately by a fixed position through a new worker
+- Final Terms and Conditions to the website according to the Governance of Slovenia
+- Newsletter 
+- Anti-Spam/Crawl for both website / emails
+- Proper Google Analytics integration with monthly reporting / suggestions for improvements / potential marketing campaign opportunities
+- Blog/News Updates/CMS - Latest from the BitShares ecosystem (similar to current "State-of-the-network", possible collaboration will be explored)
+
+**Organisation**
 - Moving/Setting up emails to new server
-- Content optimization (as per spreadsheet with estimate in hours)
-- Purchase/Deploy of SINGLE Premium SSL Certificate for bitshares.org
-- Enabling status.bitshares.org as monitoring service for the nodes listed in wallet.bitshares.org
-- Achieving double "A" Score on GTMetrix (Google PageSpeed and YahooSlow) for bitshares.org
-- Achieving 88%+ on SEOSITECHECKUP for bitshares.org
+- Purchase/Deploy of SINGLE Premium SSL Certificate for BitShares.org
 - DNS updates for the premium domain requirements
-- "Wallet Creation" being replaced with term "Account Creation" and incorporated to the website bitshares.org instead of sending users only to DEX
 - PHP polishing (wrapping header/footer includes through all pages)
 - Total of 27 files to be cleaned/organized (css, php, js, html)
-- Development and integration of open-source support ticketing system in order to provide options for professional inquiries and support (additional worker would be setup for employees in the ticketing system)
 - CDN integration
-- Final Terms and Conditions to the website according to the Governance of Slovenia and it's legal representative "Zavod Premik"
-- Newsletter 
 - OPCache + Redis server (we do serve static content)
-- Anti-Spam/Crawl for both website/emails
-- Proper Google Analytics integration with monthly reporting/suggestions for improvements/potential marketing campaign opportunities
-- Blog/News Updates/CMS - Latest from the eco-system similar to current "State-of-the-network"
-- Proper/Legally OK linking between main website and its native dApps
 
-*General Roadmap is subject to constant changes and interaction of the team members on this worker.
-*Detailed projects/sprints/tasks can be tracked through issues on GitHub Repository (1 time per month - review/re-estimate on ALL ISSUES) 
+**Native dApps**
+- Finishing 2 out of the 3 native dApps pages
+- Enabling status.bitshares.org as monitoring service for the nodes listed in wallet.bitshares.org
+- Legally reviewed linking between main website and its native dApps
+- "Wallet Creation" being replaced with term "Account Creation" and incorporated to the website BitShares.org instead of sending users only to DEX
 
 
-# **Review of work done from March 2018 till September 2018**
+The general Roadmap is subject to constant changes and interaction of the team members and the community on this worker.
+Detailed projects / sprints / tasks will be tracked through issues on GitHub Repository (1 time per month - review/re-estimate on ALL ISSUES) 
+
+
+### **Review of work done from March 2018 till September 2018**
 
 - New CloudFlare Premium DNS Service
 - New website with clean and corporate look available at http://demo.bitshares.org
-- **14 New pages** with Content aligned by current/ongoing Core team publications/updates and new White-paper by BitShares Blockchain Foundation
-- BTS Token Price ticker from CoinMarketCap
-- Blockchain activity table fully integrated through api (using php 'include' to avoid err printing/crash visible on the website) - Courtesy/Collaboration of Estefan (blocktivity.info)
-- Legal check of content for bitshares.org 
+- **14 New pages** created with community and core team support, aligned and legally reviewed with the [reviewed BitShares Whitepaper](https://github.com/bitshares-foundation/whitepapers/blob/master/pdfs/the-bitshares-blockchain.pdf)
+- Price ticker for the native core token BTS through CoinMarketCap (or internal exchange)
+- Inclusion of Blockchain activity table - fully integrated through api of blocktivity.info (Courtesy/Collaboration of Estefan)
+- Legal check of content for BitShares.org 
 - Content SEO optimizations (targeted keywords, titles, metas)
 - Readability optimizations 
-- Webalizer and AWStats enabled on demo domains (will be enabled for bitshares.org main website)
-- Hosting SEO preparations/optimization - bitshares.org HOME ONLY 
-- New BitShares GitHub repository for bitshares.org (where the future development will be available, and current staging and production website reside)
+- Webalizer and AWStats enabled on demo domains (will be enabled for BitShares.org main website)
+- Hosting SEO preparations/optimization - BitShares.org HOME ONLY 
+- New BitShares GitHub repository for BitShares.org (where the future development will be available, and current staging and production website reside)
 - Email server with SPF record and SSL (Shared) protection - currently hosted with apasia.tech
 - Separation of header and footer with php in order to get content updates less complicated
 - Load Balancer main node (shared root between collaborators) with 3 nodes behind (Entire setup by APT - Asia, EU, USA) - "Zavod Premik" would be holding root to the USA, BitShares Blockchain Foundation would be offered with EU, and Abit/Sigve would be offered to hold keys to Asia (fully decentralized).
@@ -120,32 +155,36 @@ Worker is divided between on-going/monthly 'fees' and fixed 'costs', it has pre-
 - New 'Website Terms of Agreement' and 'Content Restrictions'
 
 
+# **Shareholders Summary**
 
-### **Shareholders Summary**
-
-By voting-in this worker, website demo.bitshares.org will be finalized for release with following features by the end of the first sprint(month):
+By voting-in this worker an optimized and professionally managed BitShares.org website will be realized.
+The demo currently hosted at demo.bitshares.org will be finalized following features by the end of the first month:
 
 - All pages in order with content
-- Support Ticketing system with ONE BASIC Department for all inquiries
-- New hosting/SSL/Email deployed
+- Support Ticketing system for all inquiries
+- New hosting / SSL / Email deployed
 - Live domain/site security hardening
 - Above "A" grade on both PageSpeed & YahooSlow tests for home page (landing page)
 - “MailChimp” newsletter integrated with subscription feature enabled
 - CDN Integration
 - Website Terms and Conditions 
 
-After these are processed, demo.bitshares.org will be permanently moved to bitshares.org. Although, development will have to be approved/merged on the Github by the blockchain responsible, and authorized developers (which happens every month during review).
+After these are processed, demo.bitshares.org will be permanently moved to BitShares.org.
+Any development will have to be approved / merged on Github by respective reviewers, the release cycle is planned monthly.
 
 ## **Legal Disclaimer**
 
-- "Zavod Premik" as legal representative and owner of the domain bitshares.org will continue respectfully to update and manage bitshares.org and its content through Consensus/eco-system Workers and stake-holders/proxies decisions and votes.
-- Any suggestion from stake-holders/proxies (regardless of their stake/weight), if it doesn't meet legal requirements/limits in Slovenia will be sanctioned/ignored, and a legal substitute/solution will be resolved through other stake-holders and legal representatives.
-- Milos Preocanin, having Power of Authority on behalf of "Zavod Premik" will be held as the main/responsible contact for this worker.
-- "Zavod Premik" will uphold this agreement with the blockchain for 12 months, giving warranty on current structure/intent as CONSISTENT and fully transparent to the stake-holders and BitShares Ecosystem. 
+- "Zavod Premik" as legal representative and owner of the domain BitShares.org will continue respectfully to update and 
+manage BitShares.org and its content through this and future workers, possibly asking stakeholders where applicable
+- Milos Preocanin will be held as the main / responsible contact for this worker, also on behalf of "Zavod Premik" 
+- "Zavod Premik" will uphold this agreement with the BitShares Blockchain for 12 months, giving warranty on current 
+structure / intent as CONSISTENT and fully transparent to the stakeholders and BitShares Ecosystem.
+- Any suggestion from stakeholders (regardless of their stake/weight), if it doesn't meet legal requirements/limits in Slovenia will be sanctioned/ignored, and a legal substitute/solution will be resolved through other stake-holders and legal representatives. 
 
 
-**NOTICE/ADVERTISEMENT:**
+**Notice / Advertisement**
 
-GitHub Bounty Program will be enabled through issues with Labels "Bounty" and "Claimed" accordingly to respective devs claiming on them. A must would be estimate before gets label "Claimed" and invitation/acceptance of TopTracker tool for hours reporting.
+GitHub Bounty Program will be enabled through issues with label "Bounty". Any dev is eligible to claim estimated bounties,
+provided the participation in the chosen tool for reporting working hours.
 
-*For submissions please contact Worker Manager by Telegram (@murda_ra) or by discussion thread for this worker on BitSharestalk.org 
+For submissions please contact Milos (@murda_ra) or comment in the respective thread for this worker at BitSharesTalk.org. 
