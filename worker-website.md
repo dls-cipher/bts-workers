@@ -13,10 +13,10 @@ status: draft
 discussions:
  - name: bitsharestalk
    url: ""
-price: 175180 USD
+price: 85180 USD
 price_division:
     fixed: 7180 USD
-    variable: 168000 USD
+    variable: 78000 USD
 duration: 13 months (1 month buffer)
 start: 2018/10/15
 end: 2019/11/14
@@ -62,7 +62,7 @@ the actual domain.
 ## **Budget**
 
 Worker is divided between on-going and monthly fees and fixed costs and can accommodate a total of 12 months of work
-with a maximum budget per month of $14000.00. All work will be paid through invoices, the escrow fee is **fixed** 5% of 
+with a maximum budget per month of $6500.00. All work will be paid through invoices, the escrow fee is **fixed** 5% of 
 the invoiced amount and is included in the budget.
 
 **Positions installed** 
